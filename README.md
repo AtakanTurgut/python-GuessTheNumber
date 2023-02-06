@@ -1,2 +1,2 @@
 ## Guess The Number
-![](/guessTheNumber.PNG)
+![](/guessTheNumber.png)
